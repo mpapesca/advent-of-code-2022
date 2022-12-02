@@ -30,9 +30,9 @@ These are my solutions for this year. If you want to take a crack at it your sel
 
 To run any of the days enter:
 ```bash
-node start <number_of_the_day_to_run>
+npm start <number_of_the_day_to_run>
 ```
 for example this will run the first day:
 ```bash
-node start 1
+npm start 1
 ```
