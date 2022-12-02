@@ -1,6 +1,6 @@
 # Advent of Code 2022
-![Advent Calendar Day 1](https://media.giphy.com/media/Fbb8tjb7u7up2VgLxc/giphy.gif)
-<!-- ![Advent Calendar Day 2](https://media.giphy.com/media/et4rlnobQKELmtHcuq/giphy.gif) -->
+<!-- ![Advent Calendar Day 1](https://media.giphy.com/media/Fbb8tjb7u7up2VgLxc/giphy.gif) -->
+![Advent Calendar Day 2](https://media.giphy.com/media/et4rlnobQKELmtHcuq/giphy.gif)
 <!-- ![Advent Calendar Day 3](https://media.giphy.com/media/9OGy3tnpcpg21acXbH/giphy.gif) -->
 <!-- ![Advent Calendar Day 4](https://media.giphy.com/media/vfbE5wWf1jMYIvMnah/giphy.gif) -->
 <!-- ![Advent Calendar Day 5](https://media.giphy.com/media/aOM9S9qDR61d36fLAq/giphy.gif) -->
