@@ -12,7 +12,11 @@ const run = async () => {
     ];
   }, []);
 
-  return Math.max(...totals);
+  totals.sort((a, b) => b - a);
+  const maxTotal = totals[0]
+  const max3TotalsCombined = sumArray(totals.slice(0, 3));
+
+  return { part1: maxTotal, part2: max3TotalsCombined };
 };
 
 module.exports = {
