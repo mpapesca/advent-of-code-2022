@@ -1,18 +1,8 @@
+const { getRun } = require("./utils");
+
 const dayNumber = process.argv[2];
 
-if (dayNumber === undefined || isNaN(dayNumber)) {
-  console.log('PLEASE PROVIDE A NUMERIC DAY TO RUN');
-  return;
-}
-
-let run;
-try {
-  const { run: dayRun } = require(`./day-${dayNumber}`);
-  run = dayRun;
-} catch (error) {
-  console.log(`DAY ${dayNumber} DOES NOT EXIST YET`);
-  process.exit();
-}
+const run = getRun(dayNumber);
 
 console.log(`STARTING DAY ${dayNumber}`);
 run()
