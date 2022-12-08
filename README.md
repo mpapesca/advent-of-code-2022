@@ -4,8 +4,8 @@
 <!-- ![Advent Calendar Day 3](https://media.giphy.com/media/9OGy3tnpcpg21acXbH/giphy.gif) -->
 <!-- ![Advent Calendar Day 4](https://media.giphy.com/media/vfbE5wWf1jMYIvMnah/giphy.gif) -->
 <!-- ![Advent Calendar Day 5](https://media.giphy.com/media/aOM9S9qDR61d36fLAq/giphy.gif) -->
-![Advent Calendar Day 6](https://media.giphy.com/media/KTNEwUz2CeOlUm9dAV/giphy.gif)
-<!-- ![Advent Calendar Day 7](https://media.giphy.com/media/QkLywpXaVT756PxjqR/giphy.gif) -->
+<!-- ![Advent Calendar Day 6](https://media.giphy.com/media/KTNEwUz2CeOlUm9dAV/giphy.gif) -->
+![Advent Calendar Day 7](https://media.giphy.com/media/QkLywpXaVT756PxjqR/giphy.gif)
 <!-- ![Advent Calendar Day 8](https://media.giphy.com/media/7hO2q1qOUMBi5F1O1L/giphy.gif) -->
 <!-- ![Advent Calendar Day 9](https://media.giphy.com/media/szMkCvt9rWusa5gKER/giphy.gif) -->
 <!-- ![Advent Calendar Day 10](https://media.giphy.com/media/vl6AQqTUqTcj0EphNg/giphy.gif) -->
